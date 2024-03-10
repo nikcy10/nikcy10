@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil More</h1>
-<h3 align="center">An aspiring Full Stack Developer based in ,U</h3>
+<h3 align="center">An aspiring Full Stack Developer based in ,Mumbai</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
