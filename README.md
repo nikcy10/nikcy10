@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nikhil More</h1>
-<h3 align="center">An aspiring Full Stack Developer based in Mumbai</h3>
+<h2 align="center">An aspiring Full Stack Developer based in Mumbai</h2>
 
 - 🌱 I’m currently learning **MERN Stack.**
 
 - ⚡ I am interested in **Full Stack Web Development.**
 
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilmore27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilmore27" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhhil.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhhil.exe" height="30" width="40" /></a>
